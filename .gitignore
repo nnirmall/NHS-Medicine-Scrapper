@@ -1,0 +1,30 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+coverage/
+*.tsbuildinfo
+
+# env files
+.env
+.env.*
+!.env.example
+!.env*.example
+
+# scraper output
+data/*
+!data/.gitkeep
+
+# test artifacts
+test-results/
+playwright-report/
+
+# logs
+*.log
+pnpm-debug.log*
+
+# system
+.DS_Store
+
+data

@@ -1,0 +1,1122 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`real-browser medicine snapshots (AAA) > aciclovir snapshot 1`] = `
+{
+  "medicine": {
+    "about": {
+      "content": [
+        {
+          "bullets": [
+            "Start taking or using aciclovir as soon as you get the first signs of infection.",
+            "For most infections, you should start to feel better after taking or using aciclovir for a few days.",
+            "Common side effects of the tablets and liquid include headaches, feeling dizzy, and feeling or being sick.",
+            "If aciclovir tablets or liquid make you feel dizzy, or if the eye ointment affects your vision, do not drive or cycle until you feel better.",
+            "Wash your hands before and after using the genital herpes cream, cold sore cream or eye ointment.",
+          ],
+          "heading": "Key facts",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Aciclovir (Zovirax)",
+          "paragraphs": [],
+        },
+      ],
+      "description": "Aciclovir (or acyclovir) is an antiviral medicine.
+
+It treats a range of infections caused by herpes viruses, including:
+
+Your doctor may prescribe aciclovir to prevent you getting these infections if you've had them before or if you have a weak immune system.
+
+It's also used to treat chickenpox and shingles.
+
+Aciclovir is available on prescription. It comes as tablets, a liquid that you swallow, an eye ointment, a cold sore cream and a cream for genital herpes.
+
+It's sometimes given by injection, but this is usually only done in hospital.
+
+You can buy aciclovir cold sore cream at most pharmacies and shops without a prescription.",
+      "keyFacts": [
+        "Start taking or using aciclovir as soon as you get the first signs of infection.",
+        "For most infections, you should start to feel better after taking or using aciclovir for a few days.",
+        "Common side effects of the tablets and liquid include headaches, feeling dizzy, and feeling or being sick.",
+        "If aciclovir tablets or liquid make you feel dizzy, or if the eye ointment affects your vision, do not drive or cycle until you feel better.",
+        "Wash your hands before and after using the genital herpes cream, cold sore cream or eye ointment.",
+      ],
+      "usedFor": [],
+    },
+    "brandNames": [
+      "Cymex Ultra",
+      "Virasorb",
+      "Zovirax",
+    ],
+    "commonQuestions": {
+      "questions": [
+        {
+          "answer": "Aciclovir stops the herpes virus growing and spreading.
+This controls the infection and helps your body's immune system deal with it.
+No medicine or treatment will remove the herpes virus from your body completely.",
+          "question": "How does aciclovir work?",
+        },
+        {
+          "answer": "You should start to feel better after taking or using aciclovir for a few days.",
+          "question": "When will I feel better?",
+        },
+        {
+          "answer": "If you're not feeling better after you finish your prescribed course of aciclovir, tell your doctor.
+If your symptoms get worse at any time during your treatment, speak to your doctor.
+They may want to increase your dose of aciclovir.
+If your genital herpes sore is not better after 5 days, you can use the cream for another 5 days.
+If the infection gets worse at any time or the sore still has not healed after 10 days, speak to your doctor.
+If your cold sore has not healed after 4 days, you can carry on using the cold sore cream for another 6 days.
+If your cold sore still has not healed after this or it gets worse at any time, stop using the cream and speak to your doctor.
+If your eye infection is not better by the end of the course, or if it gets worse during your treatment, speak to your doctor. You may need to take aciclovir tablets or a different medicine if your eye infection is severe or keeps coming back.",
+          "question": "What can I do if the treatment is not working?",
+        },
+        {
+          "answer": "If you have been prescribed aciclovir for genital herpes, do not have sex until all your sores or blisters have healed.
+It's important to always use a condom when having sex, even after your symptoms have gone.
+If you or your partner have cold sores, avoid kissing and oral sex until the sores have healed.
+This reduces the risk of passing the infection on to your partner.",
+          "question": "Can I have sex while I'm taking aciclovir?",
+        },
+        {
+          "answer": "Aciclovir will not stop any type of contraception from working, including the combined pill, progestogen-only pill and emergency contraception.
+However, if aciclovir makes you sick (vomit) or have severe diarrhoea for more than 24 hours, your contraceptive pills may not protect you from pregnancy. Look on the pill packet to find out what to do.
+Find out more:
+What to do if you're sick or have diarrhoea when taking the combined pill
+What to do if you're sick or have diarrhoea when taking the progestogen-only pill",
+          "question": "Will aciclovir affect my contraception?",
+        },
+        {
+          "answer": "Some people feel dizzy when taking aciclovir tablets or liquid. This may make it more difficult to concentrate and react.
+You may not be able to see clearly for 5 to 10 minutes after using the eye ointment.
+Do not drive, cycle or use any tools or machines if you're affected.
+It's an offence to drive a car if your ability to drive safely is affected. It's your responsibility to decide if it's safe to drive. If you're in any doubt, do not drive.
+Talk to your doctor or pharmacist if you're unsure whether it's safe for you to drive while taking aciclovir. GOV.UK has more information on the law on drugs and driving.",
+          "question": "Can I drive or ride a bike?",
+        },
+        {
+          "answer": "Yes, you can drink alcohol while taking aciclovir.",
+          "question": "Can I drink alcohol while taking aciclovir?",
+        },
+        {
+          "answer": "You can eat and drink normally while taking aciclovir.",
+          "question": "Is there any food or drink I need to avoid?",
+        },
+        {
+          "answer": "Try to avoid or manage the things that trigger the herpes virus.
+These include:
+To avoid passing the infection on, do not kiss anyone while you have a cold sore. If you have genital herpes, do not have sex until the sores have gone away.
+stress – try to reduce physical and emotional stress
+being overtired – make sure you get enough sleep and eat a healthy, balanced diet
+strong sunlight and ultraviolet light – use a lip balm with SPF 30 or higher and avoid using sunbeds",
+          "question": "Can lifestyle changes prevent cold sores or herpes infections?",
+        },
+      ],
+    },
+    "dosage": {
+      "content": [
+        {
+          "bullets": [
+            "4 times a day – you could take it first thing in the morning, at midday, in the late afternoon and at bedtime",
+            "5 times a day – you could take it at 7am, 11am, 3pm, 7pm and 11pm, for example",
+          ],
+          "heading": "Dosage for aciclovir tablets and liquid",
+          "paragraphs": [
+            "Doses will vary, depending on why you're taking aciclovir. Your doctor will tell you how much to take and how often.",
+            "A single dose is generally between 200mg and 800mg. Doses may be lower for children.",
+            "You'll usually take aciclovir 2 to 5 times a day. Try to space your doses evenly throughout the day.",
+            "If you take aciclovir:",
+            "Keep taking the medicine until it's all finished or until your doctor or pharmacist tells you to stop taking it.",
+            "For treating a viral infection, you'll usually take aciclovir for 5 to 10 days. For prevention, you may need to take it for a long time.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "How to take tablets and liquid",
+          "paragraphs": [
+            "You can take aciclovir tablets or liquid with or without food. Drink plenty of water while taking this medicine to help keep your kidneys working well.",
+            "Swallow the tablets whole with a drink of water.",
+            "If you find tablets difficult to swallow, you can dissolve them in water. Add a tablet to a small glass of water and stir. Drink all the liquid to make sure you get the full dose.",
+            "Aciclovir liquid will come with a measuring spoon or plastic syringe to help you measure your dose. If you do not have a measuring spoon or syringe, ask your pharmacist for one. Do not use a kitchen teaspoon as it will not measure the right amount of medicine.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "How to use cream for cold sores",
+          "paragraphs": [
+            "Wash your hands before and after using the cream.",
+            "Put a thin layer of cream on the cold sore 5 times a day. Do this every 4 hours – for example, at 7am, 11am, 3pm, 7pm and 11pm.",
+            "Do not put aciclovir cream inside your mouth, in your eyes or vagina.",
+            "Use the cream for at least 4 days. If the cold sore has not healed by then, you can carry on using the cream for another 6 days.",
+            "If the cold sore still has not healed after a total of 10 days, stop using the cream and tell your doctor.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "How to use cream for genital herpes",
+          "paragraphs": [
+            "Wash your hands before and after using the cream.",
+            "Put a thin layer of cream on the affected area 5 times a day. Do this every 4 hours – for example, at 7am, 11am, 3pm, 7pm and 11pm.",
+            "Use the cream for at least 5 days. If the genital herpes sore has not healed by then, you can carry on using the cream for another 5 days.",
+            "If the affected area has still not healed after a total of 10 days, stop using the cream and tell your doctor.",
+          ],
+        },
+        {
+          "bullets": [
+            "Wash your hands.",
+            "Gently pull down your lower eyelid and tilt your head back.",
+            "Hold the tube with the nozzle close to your eye and gently squeeze about 1 centimetre of ointment into the space between your lower lid and your eye.",
+            "Close your eye for a few minutes.",
+          ],
+          "heading": "How to use eye ointment",
+          "paragraphs": [
+            "Put the ointment in the affected eye 5 times a day, or as your doctor advises.",
+            "Try not to let the tip of the eye ointment tube touch any part of your eye. This is to keep it free from germs.",
+            "Space the times when you use the eye ointment evenly throughout the day – for example at 7am, 11am, 3pm, 7pm and 11pm.",
+            "Keep using the eye ointment for at least 3 days after your eye has got better.",
+            "If you wear contact lenses, do not use them while you're using the eye ointment. This is because some medicines or preservatives in eye ointments can build up in contact lenses and may damage them.",
+            "Your vision might become a little blurred after you use the eye ointment. Blink several times after putting the eye ointment in to help clear your vision. Do not drive, cycle or use any tools or machinery until you can see clearly again.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "If you forget to take or use it",
+          "paragraphs": [
+            "If you forget a dose of aciclovir, take it (or use the cream or eye ointment) as soon as you remember, unless it's nearly time for your next dose. In this case, just skip the missed dose and continue with your next one at the usual time.",
+            "Never have 2 doses at the same time. Never have an extra dose to make up for a forgotten one.",
+            "If you forget doses often, it may help to set an alarm to remind you. You could also ask your pharmacist for advice on other ways to help you remember to take your medicines.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "If you take or use too much",
+          "paragraphs": [
+            "Using too much aciclovir cream or eye ointment is unlikely to harm you.",
+            "Taking too many aciclovir tablets or too much liquid is also unlikely to harm you, unless you do so over several days.",
+            "Talk to your doctor or pharmacist if you're worried that you have had too much aciclovir.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Aciclovir (Zovirax)",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "interactions": {
+      "content": [
+        {
+          "bullets": [
+            "cimetidine, a medicine for stomach ulcers",
+            "mycophenolate mofetil, a medicine given after organ transplants",
+            "probenecid, a medicine for gout",
+            "aminophylline or theophylline, medicines for asthma",
+          ],
+          "heading": "Cautions with other medicines",
+          "paragraphs": [
+            "Some medicines can affect the way aciclovir tablets or liquid work. They can also make you more likely to get side effects.",
+            "If you're using aciclovir cream on your skin, this is less likely to react with other medicines.",
+            "Tell your doctor if you take any of the following medicines before taking aciclovir:",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Mixing aciclovir with herbal remedies and supplements",
+          "paragraphs": [
+            "There's not enough information to say that herbal remedies or supplements are safe to take with aciclovir. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Important: Medicine safety",
+          "paragraphs": [
+            "Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Aciclovir (Zovirax)",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "metadata": {
+      "source": "nhs",
+    },
+    "name": "Aciclovir",
+    "pregnancy": {
+      "content": [
+        {
+          "bullets": [],
+          "heading": "Aciclovir and pregnancy",
+          "paragraphs": [
+            "Aciclovir cream, eye ointment, tablets or liquid are not known to be harmful in pregnancy. Aciclovir can help reduce the severity of herpes and chickenpox.",
+            "Speak to your doctor or pharmacist. They will help you decide on the best treatment for you and your baby.",
+          ],
+        },
+        {
+          "bullets": [
+            "is not feeding as well as usual",
+            "is being sick or has diarrhoea",
+            "is drowsy or irritable",
+            "has a rash",
+          ],
+          "heading": "Aciclovir and breastfeeding",
+          "paragraphs": [
+            "If you’re breastfeeding, you may be able to take aciclovir tablets or liquid. But ask a doctor or pharmacist for advice first.",
+            "Aciclovir from the tablets or liquid does pass into breast milk, but it's unlikely to cause any side effects in your baby.",
+            "You can also use aciclovir cream or eye ointment while breastfeeding. It's likely that only tiny amounts will get into your breast milk which would not be expected to cause any problems in your baby.",
+            "Make sure that your baby does not come into contact with broken skin or areas where you've used the medicine.",
+            "It’s rare for breastfed babies to have side effects from medicines you’re taking, But it's important to keep monitoring your baby if you're taking any medicine while breastfeeding.",
+            "Call your health professional or NHS 111 if you notice that your baby:",
+            "You can also call them if your baby has other symptoms that are not listed.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Aciclovir and fertility",
+          "paragraphs": [
+            "There's no evidence that aciclovir reduces fertility in either men or women.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Non-urgent advice: Tell your doctor if you're:",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Aciclovir (Zovirax)",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "relatedConditions": [
+      {
+        "label": "Chickenpox",
+        "url": "https://www.nhs.uk/conditions/chickenpox/",
+      },
+      {
+        "label": "Cold sores",
+        "url": "https://www.nhs.uk/conditions/cold-sores/",
+      },
+      {
+        "label": "Genital herpes",
+        "url": "https://www.nhs.uk/conditions/genital-herpes/",
+      },
+      {
+        "label": "Herpes simplex eye infections",
+        "url": "https://www.nhs.uk/conditions/herpes-simplex-eye-infections/",
+      },
+      {
+        "label": "Shingles",
+        "url": "https://www.nhs.uk/conditions/shingles/",
+      },
+    ],
+    "sideEffects": {
+      "content": [
+        {
+          "bullets": [],
+          "heading": "Common side effects (tablets and liquid)",
+          "paragraphs": [
+            "These common side effects of aciclovir tablets and liquid happen in less than 1 in 10 people. There are things you can do to help cope with them:",
+            "Speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Side effects (genital herpes cream and cold sore cream)",
+          "paragraphs": [
+            "These uncommon side effects of the genital herpes cream and cold sore cream happen in less than 1 in 100 people:",
+            "Keep using the medicine, but speak to a doctor or pharmacist if the advice on how to cope does not help and a side effect is still bothering you or does not go away.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Common side effects (eye ointment)",
+          "paragraphs": [
+            "Side effects of the eye ointment are usually mild. These common side effects happen in more than 1 in 10 people:",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Serious allergic reaction",
+          "paragraphs": [
+            "In rare cases, aciclovir can cause a serious allergic reaction (anaphylaxis).",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Other side effects",
+          "paragraphs": [
+            "These are not all the side effects of aciclovir. For a full list, see the leaflet inside your medicines packet.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Reporting side effects",
+          "paragraphs": [
+            "You can report any suspected side effect using the Yellow Card safety scheme.",
+            "Visit the Yellow Card website for more information about reporting side effects.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Aciclovir (Zovirax)",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "slug": "aciclovir",
+    "url": "https://www.nhs.uk/medicines/aciclovir/",
+    "usefulResources": [
+      {
+        "label": "Herpes Viruses Association: charity",
+        "url": "https://herpes.org.uk/",
+      },
+      {
+        "label": "Shingles Support Society: charity",
+        "url": "https://shinglessupport.org.uk/",
+      },
+    ],
+  },
+  "slug": "aciclovir",
+  "summary": {
+    "failed": 0,
+    "skipped": 0,
+    "succeeded": 1,
+    "total": 1,
+  },
+}
+`;
+
+exports[`real-browser medicine snapshots (AAA) > amlodipine snapshot 1`] = `
+{
+  "medicine": {
+    "about": {
+      "content": [
+        {
+          "bullets": [
+            "You'll usually take amlodipine once a day. You can take it at any time, but try to make sure it's around the same time each day.",
+            "Amlodipine can make some people feel dizzy. If this happens to you, do not drive a car, ride a bike, or use tools or machinery until you feel better.",
+            "The most common side effects include headaches, flushing, feeling tired and swollen ankles. These usually improve after a few days.",
+            "Amlodipine can also be called amlodipine besilate, amlodipine maleate or amlodipine mesilate. They have different ingredients but they all work as well as each other.",
+            "Having large amounts of grapefruit or grapefruit juice can increase the amount of amlodipine in your body and make side effects worse.",
+          ],
+          "heading": "Key facts",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Amlodipine",
+          "paragraphs": [],
+        },
+      ],
+      "description": "Amlodipine is a calcium channel blocker used to treat high blood pressure (hypertension). If you have high blood pressure, taking amlodipine can help to prevent future heart disease, heart attacks and strokes.
+
+It is also used to prevent chest pain caused by heart disease (angina).
+
+Amlodipine helps high blood pressure by relaxing and widening blood vessels. This lowers your blood pressure and makes it easier for your heart to pump blood around your body.
+
+With angina, you usually get chest pain because the arteries going to the heart have become hardened and narrowed. Amlodipine helps by improving the blood and oxygen supply to your heart.
+
+This medicine is only available on prescription. It comes as tablets or as a liquid you swallow.",
+      "keyFacts": [
+        "You'll usually take amlodipine once a day. You can take it at any time, but try to make sure it's around the same time each day.",
+        "Amlodipine can make some people feel dizzy. If this happens to you, do not drive a car, ride a bike, or use tools or machinery until you feel better.",
+        "The most common side effects include headaches, flushing, feeling tired and swollen ankles. These usually improve after a few days.",
+        "Amlodipine can also be called amlodipine besilate, amlodipine maleate or amlodipine mesilate. They have different ingredients but they all work as well as each other.",
+        "Having large amounts of grapefruit or grapefruit juice can increase the amount of amlodipine in your body and make side effects worse.",
+      ],
+      "usedFor": [],
+    },
+    "brandNames": [],
+    "commonQuestions": {
+      "questions": [
+        {
+          "answer": "Amlodipine is a type of medicine called a calcium channel blocker.
+Like other calcium channel blockers, it relaxes and widens blood vessels. It does this by blocking calcium going into muscles in the heart and blood vessels. Muscles need calcium to contract, so when you block the calcium, it makes the muscle cells relax. This lowers your blood pressure and makes it easier for your heart to pump blood around your body.
+In angina, amlodipine works by improving the blood and oxygen supply to your heart. Angina is chest pain that comes on when not enough blood gets to the muscles of the heart. This usually happens because the arteries going to the heart become hardened and narrowed.",
+          "question": "How does amlodipine work?",
+        },
+        {
+          "answer": "Amlodipine starts to work on the day you start taking it, but it may be a couple of weeks before it takes full effect.
+If you're taking amlodipine for high blood pressure, you may not have any symptoms. In this case, you may not feel any different when you take amlodipine. This does not mean that the medicine is not working, so it's important to keep taking it.
+If you're taking amlodipine for angina, it will probably take a couple of weeks before you feel better. Until then, you may still get chest pains sometimes, and you may even find the pain gets worse to start with.
+If you get chest pain that does not stop after a few minutes or is new or worse than your chest pain caused by angina, this is a possible sign of a heart attack and needs to be checked out as soon as possible.
+Make sure you have your medicine (spray or tablets) for treating angina attacks with you at all times and use it if you need to.",
+          "question": "How long does amlodipine take to work?",
+        },
+        {
+          "answer": "Amlodipine is generally safe to take for a long time. In fact, it works best when you take it for a long time.",
+          "question": "Are there any long-term side effects?",
+        },
+        {
+          "answer": "There are several other calcium channel blockers which lower blood pressure in the same way as amlodipine.
+They include nifedipine, felodipine, lacidipine and lercanidipine.
+There are also 2 other calcium channel blockers, diltiazem and verapamil, that work slightly differently to lower blood pressure.
+There are also lots of other types of medicines to lower your blood pressure. They work in a different way to calcium channel blockers. These include:
+If you cannot take amlodipine or other calcium channel blockers because of side effects, you may be able to switch to another blood pressure-lowering medicine. Your doctor will advise which one is best for you depending on your age, ethnicity and medical history.
+ACE inhibitors like ramipril and lisinopril
+angiotensin receptor blockers like candesartan
+beta blockers like bisoprolol
+tablets that make you pee more (diuretics) like bendroflumethiazide",
+          "question": "Are there other medicines for high blood pressure?",
+        },
+        {
+          "answer": "There are several other calcium channel blockers which prevent angina in the same way as amlodipine. They include felodipine and nifedipine.
+There are 2 other calcium channel blockers used for angina that work differently, diltiazem and verapamil.
+There are also other medicines for angina that work in a different way. They include:
+beta blockers like bisoprolol
+nitrates like isosorbide dinitrate
+nicorandil",
+          "question": "Are there other medicines for angina?",
+        },
+        {
+          "answer": "Amlodipine works as well as other calcium channel blockers for high blood pressure and angina.
+The side effects are also similar to other calcium channel blockers.
+There are some differences, though, between amlodipine and some other calcium channel blockers.
+Diltiazem and verapamil have other effects on the heart. These calcium channel blockers are used for other heart problems and can also have other side effects.
+You only need to take amlodipine once a day, but some other calcium channel blockers need to be taken more often.",
+          "question": "How does amlodipine compare with other calcium channel blockers?",
+        },
+        {
+          "answer": "Even if amlodipine lowers your blood pressure, it's best to carry on taking it. If you stop taking it, your blood pressure could go back up again.
+If you need blood pressure-lowering medicines, you'll probably need to take them for the rest of your life.
+Remember, by keeping your blood pressure low, you're protecting yourself against having a heart attack or stroke in the future.",
+          "question": "Can I stop taking amlodipine now my blood pressure is lower?",
+        },
+        {
+          "answer": "Amlodipine will not affect your contraception. But some types of hormonal methods of contraception, like the combined pill and contraceptive patch, are not usually recommended if you have high blood pressure.
+Talk to your doctor if you're taking or using combined hormonal contraceptives.",
+          "question": "Will it affect my contraception?",
+        },
+        {
+          "answer": "Amlodipine can make some people feel dizzy. If this happens to you, do not drive a car, ride a bike, or use tools or machinery until you feel better.
+It's an offence to drive a car if your ability to drive safely is affected. It's your responsibility to decide if it's safe to drive. If you're in any doubt, do not drive.
+Talk to your doctor or pharmacist if you're unsure whether it's safe for you to drive while taking amlodipine. GOV.UK has more information on the law on drugs and driving.",
+          "question": "Can I drive or ride a bike?",
+        },
+        {
+          "answer": "Yes, you can drink alcohol with amlodipine. But drinking alcohol can make amlodipine lower your blood pressure more than you need. This can make you feel sleepy or dizzy, or bring on a headache.
+If this happens to you, it's best to stop drinking alcohol while you're taking amlodipine.",
+          "question": "Can I drink alcohol with it?",
+        },
+        {
+          "answer": "Having large amounts of grapefruit or grapefruit juice can increase the concentration of amlodipine in your body and make side effects worse. If you are affected, you may have to avoid eating grapefruit or drinking grapefruit juice while taking amlodipine.
+Tell your doctor if you have any increased side effects, such as feeling dizzy, flushing or getting headaches, after eating grapefruit or drinking grapefruit juice.
+Otherwise, you can eat and drink normally while taking amlodipine.",
+          "question": "Is there any food or drink I need to avoid?",
+        },
+        {
+          "answer": "You can boost the health of your heart by making some key lifestyle changes.
+These will also help if you have high blood pressure or angina:
+Quit smoking – smoking increases your heart rate and blood pressure. Quitting smoking brings down your blood pressure and relieves heart failure symptoms. Try to avoid secondhand smoke, too.
+Cut down on alcohol – drinking too much alcohol raises blood pressure over time. It makes heart failure worse, too.
+Exercise – regular exercise lowers blood pressure by keeping your heart and blood vessels in good condition. It does not need to be too energetic, walking every day will help.
+Eat well – aim to eat a diet that includes plenty of fruit and vegetables, wholegrains, fat-free or low-fat dairy products, and lean proteins. It's a good idea to follow these tips for a lower salt diet, too. Eating too much salt is the biggest cause of high blood pressure. The more salt you eat, the higher your blood pressure will be. Aim for no more than 6g of salt a day.
+Deal with stress – when you're anxious or upset, your heart beats faster, you breathe more heavily, and your blood pressure often goes up. This can make heart failure worse, too. Find ways to reduce stress in your life. To give your heart a rest, try napping or putting your feet up when possible. Spend time with friends and family to be social and help keep stress at bay.
+Vaccinations – if you have heart failure, it's recommended that you have the flu vaccine every year and the pneumococcal vaccine as recommended by your GP. Ask your doctor about these vaccinations. You can have them free on the NHS. COVID-19 vaccination is recommended for most people. Make sure you've had all the doses that you are eligible for. Talk to your doctor if you think you might be in one of the at risk groups.",
+          "question": "Can lifestyle changes help the health of my heart?",
+        },
+      ],
+    },
+    "dosage": {
+      "content": [
+        {
+          "bullets": [],
+          "heading": "Dosage and strength",
+          "paragraphs": [
+            "Amlodipine comes as 5mg and 10mg tablets. The liquid comes as 2 different strengths, one with 5mg amlodipine in 5ml and one with 10mg in 5ml.",
+            "The usual starting dose of amlodipine is 5mg once a day.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Changes to your dose",
+          "paragraphs": [
+            "If the starting dose is not working well enough (for example, your blood pressure does not get any lower, or your angina is not controlled), your dose may need to be increased to 10mg.",
+            "To decide the correct dose for you in the longer term, your doctor will check your blood pressure to make sure it's not too high or too low. They'll also ask about any side effects you might be getting from the medicine.",
+            "Doses may be lower for children.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "How to take it",
+          "paragraphs": [
+            "You'll usually take amlodipine once a day. You can take it at any time of day, but try to make sure it's around the same time every day.",
+            "You can take amlodipine tablets and liquid with or without food.",
+            "Swallow amlodipine tablets whole and have a drink of water with both the tablets and the liquid. If it's easier, you can dissolve (disperse) the tablets in a glass of water, but you must drink it all straight away if you do this.",
+            "Do not take amlodipine with grapefruit juice. Having large amounts of grapefruit or grapefruit juice can increase how much amlodipine is in your body and make side effects worse. If you are affected, you may have to avoid eating grapefruit or drinking grapefruit juice while taking amlodipine.",
+            "If you're taking amlodipine as a liquid, it will come with a plastic syringe or spoon to help you measure out the right dose. If you do not have one, ask your pharmacist for one. Do not use a kitchen teaspoon as it will not measure the right amount of medicine.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "How long to take it for",
+          "paragraphs": [
+            "Usually, treatment with amlodipine is long term, even for the rest of your life.",
+            "Talk to your doctor if you want to stop taking amlodipine. Stopping may cause your blood pressure to rise, and this may increase your risk of heart attack and stroke.",
+            "If you're bothered by side effects, your doctor may be able to prescribe a different medicine for you.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Important",
+          "paragraphs": [
+            "Take amlodipine even if you feel well, as you'll still be getting the benefits of the medicine.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "If you forget to take it",
+          "paragraphs": [
+            "If you forget to take a dose of amlodipine, take it as soon as you remember that day and then carry on as normal.",
+            "If you forget to take the dose for the whole day, skip the missed dose and take your dose the next day at the usual time.",
+            "Never take 2 doses at once to make up for a forgotten one.",
+            "If you forget doses often, it may help to set an alarm to remind you. You could also ask your pharmacist for advice on other ways to help you remember to take your medicine.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "If you take too much",
+          "paragraphs": [
+            "If you take more than your prescribed dose of amlodipine, it can make you feel dizzy and sleepy.",
+            "The amount of amlodipine that can lead to an overdose varies from person to person.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Urgent advice: Contact 111 for advice now if:",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Amlodipine",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "interactions": {
+      "content": [
+        {
+          "bullets": [
+            "antibiotics such as clarithromycin, erythromycin or rifampicin",
+            "calcium channel blockers like diltiazem or verapamil",
+            "itraconazole or ketoconazole, antifungal medicines",
+            "medicines to treat HIV or HCV (hepatitis C virus)",
+            "anti-epilepsy medicines such as carbamazepine, phenytoin, phenobarbital (phenobarbitone) or primidone",
+            "medicines to suppress your immune system, such as ciclosporin or tacrolimus",
+            "more than 20mg a day of the cholesterol-lowering medicine simvastatin",
+          ],
+          "heading": "Cautions with other medicines",
+          "paragraphs": [
+            "If you take other medicines that lower blood pressure, such as ramipril or lisinopril, at the same time as amlodipine, the combination can sometimes lower your blood pressure too much.",
+            "When your blood pressure is low, you may feel dizzy or faint. If this keeps happening to you, tell your doctor as your dose may need to be changed.",
+            "Some medicines can affect the way amlodipine works.",
+            "Tell your doctor if you're taking any of these medicines before starting amlodipine:",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Mixing amlodipine with herbal remedies or supplements",
+          "paragraphs": [
+            "St John's wort, a herbal remedy taken for depression, is thought to affect the way amlodipine works. Talk to your doctor if you're thinking about taking St John's wort.",
+            "There's not enough information to say that other herbal remedies or supplements are safe to take with amlodipine. They're not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Important: Medicine safety",
+          "paragraphs": [
+            "Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Amlodipine",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "metadata": {
+      "source": "nhs",
+    },
+    "name": "Amlodipine",
+    "pregnancy": {
+      "content": [
+        {
+          "bullets": [],
+          "heading": "Amlodipine and pregnancy",
+          "paragraphs": [
+            "Amlodipine can be used in pregnancy. Although there is not a lot of information on its safety, it is not thought to be harmful to the baby.",
+            "If you are pregnant, or planning a pregnancy, talk to your doctor about it. They may wish to change amlodipine for a medicine that has more safety information. However, if your blood pressure levels are OK, then it may be better to continue taking amlodipine rather than switching to another medicine.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Amlodipine and breastfeeding",
+          "paragraphs": [
+            "If your doctor or health visitor says your baby is healthy, it's OK to take amlodipine while you're breastfeeding, but talk to your doctor or pharmacist as they may recommend a medicine we know more about, like nifedipine.",
+            "Amlodipine passes into breast milk in small amounts and has not been known to cause side effects in breastfed babies.",
+            "If you notice that your baby is not feeding as well as usual, seems unusually sleepy, looks much paler than usual or if you have any other concerns about your baby, then talk to your health visitor, midwife, pharmacist or doctor as soon as possible.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Amlodipine and fertility",
+          "paragraphs": [
+            "There's no evidence to suggest that taking amlodipine reduces fertility in women.",
+            "Amlodipine may affect sperm function. Speak to your doctor if you are having difficulty trying for a baby, as stopping amlodipine may be considered. Talk to your fertility specialist if you're worried.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Non-urgent advice: Tell your doctor if you're:",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Amlodipine",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "relatedConditions": [
+      {
+        "label": "Angina",
+        "url": "https://www.nhs.uk/conditions/angina/",
+      },
+      {
+        "label": "Heart attack",
+        "url": "https://www.nhs.uk/conditions/heart-attack/",
+      },
+      {
+        "label": "High blood pressure (hypertension)",
+        "url": "https://www.nhs.uk/conditions/high-blood-pressure-hypertension/",
+      },
+      {
+        "label": "Raynaud's",
+        "url": "https://www.nhs.uk/conditions/raynauds/",
+      },
+      {
+        "label": "Stroke",
+        "url": "https://www.nhs.uk/conditions/stroke/",
+      },
+    ],
+    "sideEffects": {
+      "content": [
+        {
+          "bullets": [],
+          "heading": "Common side effects",
+          "paragraphs": [
+            "These common side effects of amlodipine happen in more than 1 in 100 people. They're usually mild and only last for a short time.",
+            "There are things you can do to help cope with them:",
+            "Talk to your doctor or pharmacist if the advice on how to cope does not help and the side effects bother you or last for more than a few days.",
+          ],
+        },
+        {
+          "bullets": [
+            "you have stomach problems – severe pain in your stomach, with or without diarrhoea (whether it has blood in it or not), feeling sick and being sick (nausea and vomiting) – these can be signs of pancreatitis",
+            "the whites of your eyes turn yellow, or your skin turns yellow although this may be less obvious on brown or black skin – this can be a sign of liver problems",
+          ],
+          "heading": "Serious side effects",
+          "paragraphs": [
+            "Serious side effects after taking amlodipine are rare and happen in less than 1 in 10,000 people.",
+            "Call a doctor or call 111 now if:",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Immediate action required: Call 999 now if:",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "Serious allergic reaction",
+          "paragraphs": [
+            "In rare cases, it's possible to have a serious allergic reaction (anaphylaxis) to amlodipine.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Other side effects",
+          "paragraphs": [
+            "These are not all the side effects of amlodipine For a full list, see the leaflet inside your medicine packet.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Reporting side effects",
+          "paragraphs": [
+            "You can report any suspected side effect using the Yellow Card safety scheme.",
+            "Visit the Yellow Card website for more information about reporting side effects.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Amlodipine",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "slug": "amlodipine",
+    "url": "https://www.nhs.uk/medicines/amlodipine/",
+    "usefulResources": [
+      {
+        "label": "Blood Pressure UK: charity",
+        "url": "https://www.bloodpressureuk.org/",
+      },
+      {
+        "label": "British Heart Foundation: charity",
+        "url": "https://www.bhf.org.uk/",
+      },
+      {
+        "label": "NHS Health Check",
+        "url": "https://www.nhs.uk/tests-and-treatments/nhs-health-check/",
+      },
+    ],
+  },
+  "slug": "amlodipine",
+  "summary": {
+    "failed": 0,
+    "skipped": 0,
+    "succeeded": 1,
+    "total": 1,
+  },
+}
+`;
+
+exports[`real-browser medicine snapshots (AAA) > varenicline snapshot 1`] = `
+{
+  "medicine": {
+    "about": {
+      "content": [
+        {
+          "bullets": [
+            "Varenicline, along with support such as counselling, should increase your chances of stopping.",
+            "1 course of varenicline treatment lasts 12 weeks.",
+            "After several days of taking varenicline, you'll usually notice that you’re craving fewer cigarettes each day.",
+            "Common side effects include headaches, feeling sick or feeling dizzy.",
+            "It’s important to decide on a date to stop smoking. When you do, you’ll aim to start taking varenicline 1 to 2 weeks before this date.",
+          ],
+          "heading": "Key facts",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Varenicline",
+          "paragraphs": [],
+        },
+      ],
+      "description": "Varenicline (previously called Champix) is a medicine that can help you stop smoking.
+
+The addictive part of cigarette tobacco is called nicotine. Varenicline can reduce the cravings for nicotine and helps with the withdrawal you get when you stop smoking. These symptoms can include an urge to smoke again, feeling depressed or irritable, and difficulty sleeping.
+
+Varenicline is only available on prescription and comes as tablets.",
+      "keyFacts": [
+        "Varenicline, along with support such as counselling, should increase your chances of stopping.",
+        "1 course of varenicline treatment lasts 12 weeks.",
+        "After several days of taking varenicline, you'll usually notice that you’re craving fewer cigarettes each day.",
+        "Common side effects include headaches, feeling sick or feeling dizzy.",
+        "It’s important to decide on a date to stop smoking. When you do, you’ll aim to start taking varenicline 1 to 2 weeks before this date.",
+      ],
+      "usedFor": [],
+    },
+    "brandNames": [],
+    "commonQuestions": {
+      "questions": [
+        {
+          "answer": "When you smoke, you breathe in an addictive chemical called nicotine. This means that when you stop, you start to have withdrawal symptoms.
+Varenicline helps stop you smoking by reducing the craving for cigarettes.
+However, varenicline alone is unlikely to stop you smoking. Getting support from a local stop smoking service may help you if you have decided to stop.",
+          "question": "How does varenicline work?",
+        },
+        {
+          "answer": "During the first week of taking varenicline, you’ll slowly increase your dose. This helps to reduce the chance of feeling sick.
+After several days, you may notice that you’re craving fewer cigarettes each day.",
+          "question": "How long does it take to work?",
+        },
+        {
+          "answer": "If varenicline does not work for you, several other treatments are available to buy from pharmacies or shops, or to get on prescription.
+The best treatment for you depends on your personal preference, your age or if you're pregnant or breastfeeding. Having a medical condition will also make a difference.
+Find out more about other stop smoking treatments such as nicotine replacement therapy (NRT) and bupropion (Zyban) from NHS Better Health.",
+          "question": "Are there other treatments that can help me stop smoking?",
+        },
+        {
+          "answer": "Local stop smoking services are available to help you stop smoking. These free services provide support and effective methods to help you.
+Your doctor can refer you, or you can phone a local stop smoking service to make an appointment with an adviser.
+Find out more about NHS stop smoking services.",
+          "question": "What NHS services are there to help me stop smoking?",
+        },
+        {
+          "answer": "Varenicline does not affect any type of contraception, including the combined pill, progestogen-only pill and emergency contraception.
+However, if varenicline makes you sick (vomit) or you have severe, watery diarrhoea, or any diarrhoea that lasts for more than 24 hours, your contraceptive pills may not protect you from pregnancy. Look on the pill packet to find out what to do.
+Find out more:
+What to do if you're sick or have diarrhoea when taking the combined pill
+What to do if you're sick or have diarrhoea when taking the progestogen-only pill",
+          "question": "Will it affect my contraception?",
+        },
+        {
+          "answer": "Varenicline can make you feel sleepy, feel dizzy or affect your vision.
+If this happens to you, do not drive, cycle or use tools or machinery until you feel better.
+It’s best not to drive, cycle or use machines or tools until you know how varenicline affects you.
+It's an offence to drive a car if your ability to drive safely is affected. It's your responsibility to decide if it's safe to drive. If you're in any doubt, do not drive.
+Talk to your doctor or pharmacist if you're unsure whether it's safe for you to drive while taking varenicline.
+GOV.UK has more information on the law on drugs and driving.",
+          "question": "Can I drive or ride a bike while taking varenicline?",
+        },
+        {
+          "answer": "It’s not currently known if varenicline increases the effects of alcohol, but there’s a chance you may get more of the side effects of alcohol. You may want to stop drinking, or limit how much you drink, while you’re taking varenicline.",
+          "question": "Can I drink alcohol while taking varenicline?",
+        },
+        {
+          "answer": "You can eat and drink normally while taking varenicline.",
+          "question": "Is there any food or drink I need to avoid?",
+        },
+      ],
+    },
+    "dosage": {
+      "content": [
+        {
+          "bullets": [],
+          "heading": "Dosage and how to take varenicline",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "Dosage and strength",
+          "paragraphs": [
+            "Varenicline comes as 0.5mg and 1mg tablets.",
+            "You’ll usually take the lower dose tablet, 1 or 2 times a day for the first week. This increases to the higher dose, twice a day for the rest of your treatment. If varenicline causes side effects you cannot cope with, talk to your doctor or healthcare professional about taking a lower dose.",
+            "Follow the instructions that come with your medicine, carefully. This is because your dose changes after the first 3 days.",
+            "It’s important to complete the full 12-week course, even if you have stopped smoking. Finishing the course can increase the chance of stopping for good.",
+            "Your doctor may prescribe a longer course of treatment if they think that it will help you stop for good.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "How to take it",
+          "paragraphs": [
+            "Always take varenicline exactly as your doctor has told you. Check with your doctor or pharmacist if you’re not sure.",
+            "It’s important to decide on the date you want to stop smoking as you’re more likely to stop if you have.",
+            "If you cannot set a date to quit within 2 weeks, you can choose your own target date. But this should be within 5 weeks of starting your treatment.",
+            "To start varenicline, take your tablets 1 to 2 weeks before your stop smoking date. This allows you to build up the dose and gradually helps your body get used to the medicine.",
+            "If you’re taking varenicline twice a day, you’ll usually take it once in the morning and once in the evening.",
+            "You can take varenicline tablets with or without food. Swallow the tablet whole with a drink of water.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "How long to take it for",
+          "paragraphs": [
+            "A course of varenicline lasts for 12 weeks. If they think you need it, your doctor may prescribe another 12-week course to make sure you do not start smoking again.",
+            "If you think you’re not ready or you’re unable to stop during your first 12 weeks, try to cut back on your smoking anyway.",
+            "If you’re still smoking after 24 weeks because varenicline is not working for you, talk to your doctor or nurse. They may be able to recommend something else.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "If you forget to take it",
+          "paragraphs": [
+            "If you forget a dose of varenicline, take it as soon as you remember, unless it's less than 3 hours before your next dose is due. In this case it's better to leave out the missed dose and take your next dose at the usual time.",
+            "Never take 2 doses at the same time. Never take an extra dose to make up for a forgotten one.",
+            "If you forget doses often, it may help to set an alarm to remind you. You could also ask your pharmacist for advice on other ways to help you remember to take your medicine.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "If you take too much",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "Urgent advice: Contact 111 for advice now if:",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "Stopping varenicline",
+          "paragraphs": [
+            "Unless your doctor tells you to stop your treatment, it’s important to keep taking varenicline until you finish the full 12-week course, even if you managed to stop smoking before the end of your treatment. This reduces the chance of you smoking again.",
+            "Stopping varenicline can sometimes cause nicotine withdrawal symptoms for a short time. You may have an urge to smoke again, feel depressed or irritable, and have difficulty sleeping.",
+            "To reduce the risk of these effects, your doctor may suggest reducing your dose gradually at the end of your treatment.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Varenicline",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "interactions": {
+      "content": [
+        {
+          "bullets": [
+            "theophylline or aminophylline, medicines for breathing problems",
+            "erlotinib, a medicine to treat cancer",
+            "riociguat, a medicine to treat high blood pressure in the lungs (pulmonary arterial hypertension)",
+            "warfarin, a medicine to reduce blood clotting",
+            "insulin, to treat diabetes",
+            "olanzapine and clozapine, used to treat psychosis",
+          ],
+          "heading": "Cautions with other medicines",
+          "paragraphs": [
+            "Varenicline does not usually have an effect on any other medicines. Check with your doctor before using varenicline with other stop smoking treatments.",
+            "However, when you stop smoking, with or without varenicline, your doctor may need to change your dose of medicines such as:",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Mixing varenicline with herbal remedies and supplements",
+          "paragraphs": [
+            "There's not enough information to say that complementary medicines and herbal remedies are safe to take with varenicline. They’re not tested in the same way as pharmacy and prescription medicines. They're generally not tested for the effect they have on other medicines.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Important: Medicine safety",
+          "paragraphs": [
+            "Tell your doctor or pharmacist if you're taking any other medicines, including herbal remedies, vitamins or supplements.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Varenicline",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "metadata": {
+      "source": "nhs",
+    },
+    "name": "Varenicline",
+    "pregnancy": {
+      "content": [
+        {
+          "bullets": [],
+          "heading": "Varenicline and pregnancy",
+          "paragraphs": [
+            "Varenicline is not recommended if you’re pregnant. This is because there is little safety information on its use in pregnancy. Nicotine replacement products, such as nicotine patches and gum, can be used during pregnancy.",
+            "Smoking during pregnancy increases the risk of miscarriage, some birth defects, premature birth, low birth weight, and some pregnancy complications. If you smoke, then it's important to get help to try to stop. Speak to your doctor, community midwife or pharmacist who will be able to help you.",
+            "Find out more about smoking during pregnancy and how to stop.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Varenicline and breastfeeding",
+          "paragraphs": [
+            "Varenicline is not usually recommended if you’re breastfeeding. This is because it’s thought to pass to your baby through breast milk. There’s no information about how much passes through or if it causes side effects.",
+            "It’s best to use other treatments to help you stop smoking, if possible. Talk to your doctor or pharmacist first to help you decide.",
+            "If you’re breastfeeding it’s important to stop smoking for your baby’s health as well as your own.",
+            "Find out more about breastfeeding and smoking.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Varenicline and fertility",
+          "paragraphs": [
+            "There's no good evidence that varenicline affects fertility in either men or women.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Non-urgent advice: Tell your doctor if you're:",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Varenicline",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "relatedConditions": [],
+    "sideEffects": {
+      "content": [
+        {
+          "bullets": [],
+          "heading": "Common side effects of varenicline",
+          "paragraphs": [
+            "Varenicline can have side effects, but there are things you can do to help cope with them.",
+            "If this advice does not help and any of these side effects bother you, talk to your doctor or pharmacist.",
+          ],
+        },
+        {
+          "bullets": [
+            "start to feel irritable, aggressive, anxious or depressed",
+            "feel changes in your heart rate (palpitations)",
+            "have a mental health condition that gets worse",
+          ],
+          "heading": "Serious side effects",
+          "paragraphs": [
+            "Serious side effects are rare but can happen.",
+            "Call a doctor or contact 111 now if you:",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Immediate action required: Call 999 or go to A&E if:",
+          "paragraphs": [],
+        },
+        {
+          "bullets": [],
+          "heading": "Serious allergic reaction",
+          "paragraphs": [
+            "In rare cases, it's possible to have a serious allergic reaction (anaphylaxis) to varenicline.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Other side effects",
+          "paragraphs": [
+            "These are not all the side effects of varenicline. For a full list see the leaflet inside your medicines packet.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "Reporting side effects",
+          "paragraphs": [
+            "You can report any suspected side effect using the Yellow Card safety scheme.",
+            "Visit the Yellow Card website for more information about reporting side effects.",
+          ],
+        },
+        {
+          "bullets": [],
+          "heading": "More in Varenicline",
+          "paragraphs": [],
+        },
+      ],
+    },
+    "slug": "varenicline",
+    "url": "https://www.nhs.uk/medicines/varenicline/",
+    "usefulResources": [
+      {
+        "label": "Quit smoking",
+        "url": "https://www.nhs.uk/live-well/quit-smoking/",
+      },
+      {
+        "label": "NHS stop smoking services to help you quit",
+        "url": "https://www.nhs.uk/live-well/quit-smoking/nhs-stop-smoking-services-help-you-quit/",
+      },
+      {
+        "label": "Better Health: Ready to quit smoking",
+        "url": "https://www.nhs.uk/better-health/quit-smoking/ready-to-quit-smoking/",
+      },
+      {
+        "label": "QUIT",
+        "url": "http://www.quit.org.uk/",
+      },
+    ],
+  },
+  "slug": "varenicline",
+  "summary": {
+    "failed": 0,
+    "skipped": 0,
+    "succeeded": 1,
+    "total": 1,
+  },
+}
+`;

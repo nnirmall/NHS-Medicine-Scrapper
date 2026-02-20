@@ -1,0 +1,4 @@
+{
+  "project": ["src/**/*.ts", "tests/**/*.ts"],
+  "ignoreDependencies": ["pino-pretty"]
+}

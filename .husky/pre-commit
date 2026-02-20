@@ -1,0 +1,6 @@
+#!/bin/sh
+pnpm run deps:check
+pnpm run format
+git add -A
+pnpm run lint
+pnpm run knip
